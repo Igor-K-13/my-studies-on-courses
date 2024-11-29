@@ -1,6 +1,2 @@
-# новый тестовый файл
-
-def word_breakdown(text):
-    for elem in text.split():
-        key = len(elem.strip('''!'?,".'''))
-        encrypt(elem, key)
+list1 = [[1, 7, 8], [9, 7, 102], [6, 106, 105], [100, 99, 98, 103], [1, 2, 3]]
+print(list1[0])
